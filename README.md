@@ -2,7 +2,7 @@
 
 <p>   📚 Studying Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
 
-<p>   🛩️ Making <a href="[https://www.youtube.com/watch?v=TpIJf-CIxaM&list=PLMGppJPg2Z69ylUVmClFxc2MXAsPJWDbh](https://www.youtube.com/playlist?list=PLMGppJPg2Z69ylUVmClFxc2MXAsPJWDbh)">drone videos</a></p>
+<p>   🛩️ Making <a href="https://www.youtube.com/playlist?list=PLMGppJPg2Z69ylUVmClFxc2MXAsPJWDbh">drone videos</a></p>
 
 <p align="right">
   <a href= "https://github.com/giuseppepelusi"><img src="/resources/website.svg" style="width: 40px; height: 40px"/></a>
